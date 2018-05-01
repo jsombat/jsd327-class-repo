@@ -16,8 +16,12 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 
 ## Project Description
+I’d like to build a site that will help with hosting dinner parties, by making it easier to manage invitations. I can send a url that will capture guest information and minimize group email back and forth.
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+A user will be able to view dates and descriptions for upcoming parties, be able to sign up to attend (capture name, number of guests and email), and choose from a dropdown of things to bring. If someone has already selected something, it shouldn’t show up in the selection for subsequent guests. 
+
+Post MVP- generate a calendar invite
+
 
 ## Wireframes
 
