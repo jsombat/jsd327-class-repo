@@ -37,14 +37,17 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### MVP 
 
-- Find and use external api 
-- Render data on page 
-- Allow user to choose favorites 
-- Save their choices in firebase
+- Display Cards 
+- Make a Form
+- Collect the user info in a JSON 
+- Show a confirmation screen
+- Email a confirmation (?) 
 
 #### PostMVP 
 
-- Add user auth
+- Put JSON in a spreadsheet
+- User Login
+- Hide cards that have already happened
 
 ## Functional Components
 
@@ -52,11 +55,15 @@ Based on the initial logic defined in the previous  phases section try and break
 
 Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. 
 
-| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| Display Cards | H | 1.5hrs| --hrs | --hrs |
+| Make A Form | H | 1.5hrs| --hrs | --hrs |
+| Make A Form | H | 1.5hrs| --hrs | --hrs |
+| Collect User Info in JSON | M | 1hrs| --hrs | --hrs |
+| Show Confirmation | H | 2hrs| --hrs | --hrs |
+| Email Confirmation | L | 2hrs| --hrs | --hrs |
+| Total | H | 9.5hrs| --hrs | --hrs |
 
 ## Helper Functions
 Helper functions should be generic enought that they can be reused in other applications. Use this section to document all helper functions that fall into this category.
